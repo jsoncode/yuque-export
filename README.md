@@ -25,7 +25,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/yuque-export.git
+git clone https://github.com/jsoncode/yuque-export.git
 cd yuque-export
 ```
 
