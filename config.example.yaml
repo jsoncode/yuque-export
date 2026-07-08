@@ -1,0 +1,10 @@
+# 复制为 config.yaml 后填写你的配置
+
+username: your_name_space
+project: your_project_name
+
+# 浏览器登录语雀后，从开发者工具复制完整 Cookie 字符串
+cookie: "your_cookie_here"
+
+# 导出根目录，实际输出为 {output_dir}/{book.name}/{title}/
+output_dir: ./output
